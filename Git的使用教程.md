@@ -14,4 +14,4 @@
 	- step3：`git commit` 提交修改过的文件版本
 	- step4：`git status` 检查是否已经提交
 
-4. 
+4. 哈哈哈哈哈哈哈哈哈哈
