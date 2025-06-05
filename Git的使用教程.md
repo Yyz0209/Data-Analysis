@@ -32,3 +32,7 @@
 	- 暂存区删除：`git rm 文件名`  且 `git commit`
 	- 暂存区盘面退回工作区：`git checkout -- 文件名`
 
+6. Github远程仓库同步
+	- 同步到远程仓库：`git push origin main`
+	- 远程仓库、本地仓库合并：`git pull --rebase origin main`
+
